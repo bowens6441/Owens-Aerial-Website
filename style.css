@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+
+header.hero {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+section h2 {
+  color: #111;
+  margin-bottom: 10px;
+}
+
+footer#contact {
+  background: #f4f4f4;
+  text-align: center;
+  padding: 40px 20px;
+}
