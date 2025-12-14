@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Owens Aerial – Drone Photography & Videography</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <h1>Professional Drone Photography and Videography</h1>
+    <p>FAA Licensed & Insured</p>
+  </header>
+
+  <section id="about">
+    <h2>About Owens Aerial</h2>
+    <p>Owens Aerial is dedicated to capturing breathtaking aerial imagery that elevates your project’s visual storytelling. We work closely with clients to exceed expectations with every flight. FAA licensed and insured for safe, professional service.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Real Estate Aerial Photography</li>
+      <li>Construction Progress Photography</li>
+      <li>Event Coverage & Videography</li>
+    </ul>
+  </section>
+
+  <section id="gallery">
+    <h2>Drone Photo Collection</h2>
+    <p>[Add your best images here]</p>
+  </section>
+
+  <footer id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: brayden@owensaerial.com</p>
+    <p>Phone: (864) 871-3260</p>
+  </footer>
+</body>
+</html>
